@@ -1,7 +1,7 @@
 {
-  "name": "vag-service.pro",
+  "name": "vaggarage.pro",
   "version": "1.0.0",
-  "description": "vag-service pro site",
+  "description": "vaggarage pro site",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Laboratory/vag-service.pro.git"
+    "url": "https://github.com/vaggarage/vaggarage.github.io.git"
   },
   "author": "Vitaly Nikitin (vit.nikitin@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Laboratory/vag-service.pro/issues"
+    "url": "https://github.com/vaggarage/vaggarage.github.io/issues"
   },
-  "homepage": "https://github.com/Laboratory/vag-service.pro",
+  "homepage": "https://github.com/vaggarage/vaggarage.github.io",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-concurrent": "^2.3.1",

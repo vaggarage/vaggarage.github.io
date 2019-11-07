@@ -48,8 +48,8 @@ ga('send', 'pageview');
 $(document).ready(function () {
 
   var map;
-  var lat = 59.905020;
-  var lng = 30.292026;
+  var lat = 59.9083099;
+  var lng = 30.2823811;
 
   map = new window.GMaps({
     div: '#companyMap',
@@ -76,13 +76,13 @@ $(document).ready(function () {
   map.drawOverlay({
     lng: lng,
     lat: lat,
-    content: '<div class="overlay">VAG-SERVICE.PRO<div class="overlay_arrow above"></div></div>',
+    content: '<div class="overlay">VAGGARAGE.PRO<div class="overlay_arrow above"></div></div>',
     verticalAlign: 'top',
     horizontalAlign: 'center'
   });
 
   //switch main phone by interval
-  var phones = ['+7 (981) 8878258', '‎+7 (900) 6343131'];
+  var phones = ['+7 (900) 6235737'];
   var switcher = true;
   setInterval(function () {
     switcher = !switcher;
